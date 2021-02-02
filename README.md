@@ -9,8 +9,8 @@
     | Name               | Github                            |
     | ------------------ | --------------------------------- |
     | Cristian Gutierrez | https://github.com/thehamop1      |
-    | Archana Ravi       | https://github.com/darshikasondra |
-    | Darshi Kasondra    | https://github.com/               |
+    | Archana Ravi       | https://github.com/               |
+    | Darshi Kasondra    | https://github.com/darshikasondr  |
 
 ## Topic
 
